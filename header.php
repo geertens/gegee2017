@@ -18,6 +18,7 @@
 	<?php if ( is_singular() && pings_open( get_queried_object() ) ) : ?>
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php endif; ?>
+	 <link href="https://fonts.googleapis.com/css?family=Poppins|Rubik" rel="stylesheet"> 
 	<?php wp_head(); ?>
 </head>
 
@@ -94,6 +95,8 @@
 					</a>
 				</div><!-- .header-image -->
 			<?php endif; // End header image check. ?>
+			
 		</header><!-- .site-header -->
-
+        <div class="header-image">
+                <img src="http://localhost/gegee_2017/wordpress/wp-content/themes/twentysixteen_child/images/slider_1.png"></div>
 		<div id="content" class="site-content">
