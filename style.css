@@ -14,3 +14,35 @@ Version: 1.0
 
 @import url('../twentysixteen/style.css');
 
+body{
+    background: transparent;
+}
+
+.site {
+    margin: 0px;
+}
+
+.site-title a{
+   font-family:Poppins;
+    font-size: 2.5rem;
+}
+p.site-title{
+    padding: 0 10;
+}
+
+.site-header-main{
+    padding: 0px 40px;
+}
+.site-header{
+    padding:0px ;
+}
+
+h1.entry-title{
+    font-family:Poppins;
+    font-size: 1.8rem;
+}
+
+.widget , .widget-title{
+    border-top: 0px;
+    text-transform:none !important;
+}
