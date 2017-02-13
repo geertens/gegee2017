@@ -46,3 +46,7 @@ h1.entry-title{
     border-top: 0px;
     text-transform:none !important;
 }
+
+a{
+    color:red;
+}
