@@ -48,5 +48,14 @@ h1.entry-title{
 }
 
 a{
-    color:red;
+    color:#000;
 }
+
+.header-image{
+    margin: 0px;
+}
+
+.site-branding{
+   margin: 0.875em auto 0 0
+}
+
