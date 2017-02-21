@@ -65,7 +65,8 @@
 					<?php endif; ?>
 				</div><!-- .site-branding -->
                 <div class="header-image">
-                <img src="http://localhost/gegee_2017/wordpress/wp-content/themes/twentysixteen_child/images/slider_1.png"></div>
+                <!--<img src="http://localhost/gegee_2017/wordpress/wp-content/themes/twentysixteen_child/images/slider_1.png">-->
+                <video id="sampleMovie" src="slider_1.mp4" controls></video></div>
                <div class="site-header-main">
 				
               <?php if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) ) : ?>

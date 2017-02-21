@@ -54,8 +54,28 @@ a{
 .header-image{
     margin: 0px;
 }
-
+.header-image img{
+    width: 100%;
+    height:auto;
+}
 .site-branding{
-   margin: 0.875em auto 0 0
+   margin: 0.875em auto 0 4rem;
 }
 
+.site-inner{
+    max-width:100% !important;
+}
+
+.main-navigation{
+    padding: 0 2rem;
+}
+
+.content-area{
+    margin-left:1rem;
+}
+//@media screen and (min-width: 44.375em) {
+@media screen and (max-width: 1250px) {
+    
+    
+    
+}
